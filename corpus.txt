@@ -1,0 +1,10 @@
+deposit: The deposit is 500 dollars.
+lease: The lease lasts 12 months.
+pets: Cats are allowed.
+parking: Parking costs 40 dollars monthly.
+repairs: Repairs are reported through the tenant portal.
+hours: Office hours are 9 to 5.
+laundry: Laundry is on floor 2.
+internet: Internet is included.
+utilities: Water is included.
+notice: Move out requires 30 days notice.
